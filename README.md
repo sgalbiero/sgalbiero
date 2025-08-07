@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Sgalbiero!
 
-<!--
-**sgalbiero/sgalbiero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cursando **Engenharia de Software** na FANS  
+💻 Apaixonado por tecnologia, dados e soluções inteligentes  
 
-Here are some ideas to get you started:
+### 🚀 Interesses:
+- Python
+- JavaScript
+- Análise de Dados
+- Banco de Dados (SQL/NoSQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Em aprendizado constante:
+Atualmente desenvolvendo projetos e aprimorando minhas habilidades técnicas através de estudos práticos e experimentação.
+
+### 🔗 Vamos nos conectar no LinkedIn?
+[![LinkedIn](https://img.shields.io/badge/-Vinicius%20Sgalbiero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-eduardo-sgalbiero-a2904330a)](https://www.linkedin.com/in/vinicius-eduardo-sgalbiero-a2904330a)

@@ -5,12 +5,10 @@
 
 ### Interesses:
 - Python 🐍
-- JavaScript ✨
 - Análise de Dados 📊
 - Banco de Dados (SQL/NoSQL) 🗄️
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
 ---
@@ -25,7 +23,6 @@ Atualmente desenvolvendo projetos e aprimorando minhas habilidades técnicas atr
 | Linguagem    | Nível         |
 |-------------|---------------|
 | Python      | Intermediário |
-| JavaScript  | Básico        |
 | SQL/NoSQL   | Básico        |
 
 ---

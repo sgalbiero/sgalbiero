@@ -21,9 +21,9 @@ Atualmente desenvolvendo projetos e aprimorando minhas habilidades técnicas atr
 ### Resumo de habilidades:
 
 | Linguagem    | Nível         |
-|-------------|---------------|
-| Python      | Intermediário |
-| SQL/NoSQL   | Básico        |
+|--------------|---------------|
+| Python       | Intermediário |
+| SQL/NoSQL    | Intermediário |
 
 ---
 

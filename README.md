@@ -4,6 +4,7 @@
 **Buscando estágio em análise de dados**
 
 ### Interesses:
+- Javascript 
 - Python 🐍
 - Análise de Dados 📊
 - Banco de Dados (SQL/NoSQL) 🗄️
@@ -22,6 +23,7 @@ Atualmente desenvolvendo projetos e aprimorando minhas habilidades técnicas atr
 
 | Linguagem    | Nível         |
 |--------------|---------------|
+| Javascript   | Intermediário |
 | Python       | Intermediário |
 | SQL/NoSQL    | Intermediário |
 

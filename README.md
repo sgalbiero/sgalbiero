@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&size=26&center=true&vCenter=true&width=650&lines=Olá%2C+eu+sou+o+Vinicius!;Em+busca+de+me+tornar+um+dev+Fullstack+de+respeito" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&size=26&center=true&vCenter=true&width=650&lines=Olá%2C+eu+sou+o+Vinicius!;Em+busca+de+me+tornar+um+dev+Fullstack" />
 </p>
 
 ---
